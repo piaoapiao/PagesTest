@@ -20,7 +20,8 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-
+**haha**
+！[Image](http://img1.imgtn.bdimg.com/it/u=1794894692,1423685501&fm=21&gp=0.jpg)
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
